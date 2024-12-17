@@ -8,7 +8,7 @@
     tools:context=".MainActivity">
 
     <TextView
-        android:id="@+id/tV"
+        android:id="@+id/details"
         android:layout_width="397dp"
         android:layout_height="271dp"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -19,7 +19,7 @@
         app:layout_constraintVertical_bias="0.93" />
 
     <Spinner
-        android:id="@+id/countreis"
+        android:id="@+id/countries"
         android:layout_width="380dp"
         android:layout_height="47dp"
         app:layout_constraintBottom_toBottomOf="parent"
